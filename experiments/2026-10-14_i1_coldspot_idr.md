@@ -2,7 +2,7 @@
 
 2026-10-14
 
-Issue: [#1]((https://github.com/swasli/tcfb_2026_demo/issues/1#issue-5856012716))
+Issue: [#1](https://github.com/swasli/tcfb_2026_demo/issues/1)
 
 ## Data and tools
 
