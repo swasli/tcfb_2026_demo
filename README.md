@@ -1,4 +1,14 @@
 # tcfb_2026_demo
+
+My homework repo for TFCB 2026. Made by Gadis Shahjehan (@swasli).
+
+## Folder layout
+
+- `experiments/` : experiment folders, including the tidy qPCR table
+- `coldspots_coordinates.csv` : coldspot coordinates with IDR calls
+- `coldspots_analysis_report.pdf` : coldspot analysis report
+- `alphafold x coldspots (1).zip` : ChimeraX images for the sampled genes
+- `README.md` : this file
 # Visualizing Coldspots in Genes using ChimeraX
 
 Do coldspot regions in genes code for intrinsically disordered regions (IDRs) of proteins? This repo walks through a simple way to check, using AlphaFold structures in ChimeraX.
@@ -194,7 +204,8 @@ By the end, you should have:
 
 
 ## Homework 1
-[Issue 1]
-[Issue 2]
-
-
+- [Issue 1](https://github.com/swasli/tfcb_2026_demo/issues/1)
+- [Issue 2](https://github.com/swasli/tfcb_2026_demo/issues/2) 
+- [Log File](https://github.com/swasli/tfcb_2026_demo/tree/main/experiments)
+- [Commit](https://github.com/swasli/tfcb_2026_demo/commit/334765a0cbb8cd01580a8ab1de89bf285d810780)
+- [Labels](https://github.com/swasli/tfcb_2026_demo/labels)
