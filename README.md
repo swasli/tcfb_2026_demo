@@ -189,3 +189,5 @@ By the end, you should have:
 | Protein visuals of the coldspot regions and their AlphaFold scores | `coldspots_images` (compressed folder) |
 | Spreadsheet with the YES / NO / N/A IDR calls, plus the columns from Step 2 | `coldspots_coordinates.csv` |
 | A short report with the analysis from Step 7 (feel free to use better methods!) | `coldspots_analysis_report` (PDF or Word) |
+
+### I invited my TA and a classmate as collaborators. Before the invite they could only view the repo, but now they have write access so they can push commits, edit files, and be assigned to issues. They also get notified about activity in the repo.
